@@ -10,7 +10,10 @@ html {
 	margin: 0;
 	padding: 0;
 }
-
+body {
+	font-family: var(--font);
+	font-size: 1.6rem;
+}
 a {
 	text-decoration: none;
 	color: #000;
